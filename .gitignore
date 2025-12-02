@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+pdf_env/
+venv/
+env/
+ENV/
+
+# Dropbox
+*.dropbox.attrs
+*:com.dropbox.attrs
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
