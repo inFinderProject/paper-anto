@@ -1,0 +1,173 @@
+=== Migration Mode: EXECUTE ===
+✅ Moved: IV_사업전략_외부보고서.md → Chapter-5/IV_사업전략_외부보고서.md
+✅ Moved: 딥 리서치 자료 (1) - 자연 친화적 콘셉트의 국내 5성급 호텔 브랜드 리스트.md → Chapter-4/deep-research/딥 리서치 자료 (1) - 자연 친화적 콘셉트의 국내 5성급 호텔 브랜드 리스트.md
+✅ Moved: outline.md → General/outline.md
+✅ Moved: S05_마케팅_및_영업_전략.md → Chapter-5/S05_마케팅_및_영업_전략.md
+✅ Moved: 08_향후액션과제_Part1_최종본.md → Chapter-6/legacy/08_향후액션과제_Part1_최종본.md
+✅ Moved: 03_마케팅_전략_기획서.md → Chapter-5/03_마케팅_전략_기획서.md
+✅ Moved: 04_재무목표및시나리오_초안.md → Chapter-3/legacy/04_재무목표및시나리오_초안.md
+✅ Moved: 02_운영현황분석.md → Chapter-2/legacy/02_운영현황분석.md
+✅ Moved: ANTO_2026_경영보고서_통합본_v1.md → General/ANTO_2026_경영보고서_통합본_v1.md
+✅ Moved: 02_브랜드현황및전략_최종본.md → Chapter-1/legacy/02_브랜드현황및전략_최종본.md
+✅ Moved: S04_시장_분석_및_경쟁_현황.md → Chapter-4/S04_시장_분석_및_경쟁_현황.md
+✅ Moved: 01_제안개요및전략_슬라이드디자인.md → General/legacy/01_제안개요및전략_슬라이드디자인.md
+✅ Moved: 08_부서별실행과제.md → Chapter-7/08_부서별실행과제.md
+✅ Moved: ANTO 딥리서치 (4)-북한산의 인기 요인과 주요 강점.pdf → Deep-Research-Archive/ANTO 딥리서치 (4)-북한산의 인기 요인과 주요 강점.pdf
+✅ Moved: 05_2026년실행전략_v2.md → Chapter-5/05_2026년실행전략_v2.md
+✅ Moved: ANTO 딥리서치 (3)-경영 전략 분석.pdf → Deep-Research-Archive/ANTO 딥리서치 (3)-경영 전략 분석.pdf
+✅ Moved: ANTO 딥리서치 (5)-아만 리조트_ 브랜드 및 전략 분석 보고서.pdf → Deep-Research-Archive/ANTO 딥리서치 (5)-아만 리조트_ 브랜드 및 전략 분석 보고서.pdf
+✅ Moved: 09_결론및비전.md → Chapter-8/09_결론및비전.md
+✅ Moved: 딥 리서치 자료 (5) - 반얀트리 클럽 & 스파 서울 운영 및 브랜드 전략 분석.md → Chapter-4/deep-research/딥 리서치 자료 (5) - 반얀트리 클럽 & 스파 서울 운영 및 브랜드 전략 분석.md
+✅ Moved: ANTO 딥리서치 (1)-안토 브랜드 조사.pdf → Deep-Research-Archive/ANTO 딥리서치 (1)-안토 브랜드 조사.pdf
+✅ Moved: 03_시장분석_외부용.md → Chapter-4/legacy/03_시장분석_외부용.md
+✅ Moved: 05_시장분석및포지셔닝_초안.md → Chapter-4/legacy/05_시장분석및포지셔닝_초안.md
+✅ Moved: ANTO 딥리서치 (10)_05_프리미엄 호텔 시장 분석.pdf → Deep-Research-Archive/ANTO 딥리서치 (10)_05_프리미엄 호텔 시장 분석.pdf
+✅ Moved: 05_마케팅및영업전략_슬라이드디자인.md → Chapter-5/legacy/05_마케팅및영업전략_슬라이드디자인.md
+✅ Moved: 00_ExecutiveSummary_최종본.md → Chapter-0/legacy/00_ExecutiveSummary_최종본.md
+✅ Moved: S08_재무_현황_및_전망.md → Chapter-3/S08_재무_현황_및_전망.md
+✅ Moved: 01_ExecutiveSummary_대외용_슬라이드디자인.md → Chapter-0/legacy/01_ExecutiveSummary_대외용_슬라이드디자인.md
+✅ Moved: 딥 리서치 자료 (6) - 사우스케이프 스파 & 스위트 운영 및 브랜드 전략 상세 조사.md → Chapter-4/deep-research/딥 리서치 자료 (6) - 사우스케이프 스파 & 스위트 운영 및 브랜드 전략 상세 조사.md
+✅ Moved: ANTO 딥리서치 (2)-벤치마킹 브랜드.pdf → Deep-Research-Archive/ANTO 딥리서치 (2)-벤치마킹 브랜드.pdf
+✅ Moved: 02_ANTO브랜드소개_대외용_최종본.md → Chapter-1/legacy/02_ANTO브랜드소개_대외용_최종본.md
+✅ Moved: 02_복제불가능한자연자산_초안.md → Chapter-1/02_복제불가능한자연자산_초안.md
+✅ Moved: ANTO 딥리서치 (7)_02_서울 프리미엄 호텔 5곳 경쟁력 비교.pdf → Deep-Research-Archive/ANTO 딥리서치 (7)_02_서울 프리미엄 호텔 5곳 경쟁력 비교.pdf
+✅ Moved: 07_재무현황및전망_슬라이드디자인.md → Chapter-3/legacy/07_재무현황및전망_슬라이드디자인.md
+✅ Moved: 대표님_보고_인사팀_업무보고.md → Chapter-7/대표님_보고_인사팀_업무보고.md
+✅ Moved: workflow.md → General/legacy/workflow.md
+✅ Moved: S03_운영_현황.md → Chapter-2/S03_운영_현황.md
+✅ Moved: 02_브랜드현황및전략_슬라이드디자인.md → Chapter-1/legacy/02_브랜드현황및전략_슬라이드디자인.md
+✅ Moved: 안토_종합분석보고서.md → General/안토_종합분석보고서.md
+✅ Moved: 06_향후액션과제_슬라이드디자인.md → Chapter-6/legacy/06_향후액션과제_슬라이드디자인.md
+✅ Moved: 08_향후액션과제_Part2_최종본.md → Chapter-6/legacy/08_향후액션과제_Part2_최종본.md
+✅ Moved: 03_시장분석_대외용_최종본.md → Chapter-4/legacy/03_시장분석_대외용_최종본.md
+✅ Moved: 대내용 자료 키 메시지.md → General/대내용 자료 키 메시지.md
+✅ Moved: 06_주요플랜및이슈_슬라이드디자인.md → Chapter-6/legacy/06_주요플랜및이슈_슬라이드디자인.md
+✅ Moved: ANTO 딥리서치 (8)_03_프리미엄 호텔 고객 세그먼트 분석.pdf → Deep-Research-Archive/ANTO 딥리서치 (8)_03_프리미엄 호텔 고객 세그먼트 분석.pdf
+✅ Moved: 06_재무계획_대외용_슬라이드디자인.md → Chapter-3/legacy/06_재무계획_대외용_슬라이드디자인.md
+✅ Moved: README.md → General/README.md
+✅ Moved: 05_시설및서비스_대외용_최종본.md → Chapter-2/legacy/05_시설및서비스_대외용_최종본.md
+✅ Moved: S02_브랜드_히스토리.md → Chapter-1/S02_브랜드_히스토리.md
+✅ Moved: 02_ANTO브랜드소개_대외용_슬라이드디자인.md → Chapter-1/legacy/02_ANTO브랜드소개_대외용_슬라이드디자인.md
+✅ Moved: 02_포지셔닝_전략_기획서.md → Chapter-4/02_포지셔닝_전략_기획서.md
+✅ Moved: CODEX_TODO.md → General/legacy/CODEX_TODO.md
+✅ Moved: ContentCreationWorkflowProposal.md → General/legacy/ContentCreationWorkflowProposal.md
+✅ Moved: 07_실행과제및리스크관리_초안.md → Chapter-6/07_실행과제및리스크관리_초안.md
+✅ Moved: 안토_인사팀_업무보고서_분석.md → Chapter-7/안토_인사팀_업무보고서_분석.md
+✅ Moved: 03_시장분석및경쟁현황_슬라이드디자인.md → Chapter-4/legacy/03_시장분석및경쟁현황_슬라이드디자인.md
+✅ Moved: 딥 리서치 자료 (3) - 파크로쉬 리조트 & 웰니스 운영 및 포지셔닝 상세 조사.md → Chapter-4/deep-research/딥 리서치 자료 (3) - 파크로쉬 리조트 & 웰니스 운영 및 포지셔닝 상세 조사.md
+✅ Moved: 01_ExecutiveSummary_대외용_최종본.md → Chapter-0/legacy/01_ExecutiveSummary_대외용_최종본.md
+✅ Moved: 03_시장분석및경쟁현황_v1.md → Chapter-4/legacy/03_시장분석및경쟁현황_v1.md
+✅ Moved: 05_주요플랜및이슈_슬라이드디자인.md → Chapter-6/legacy/05_주요플랜및이슈_슬라이드디자인.md
+✅ Moved: 03_운영현황_슬라이드디자인.md → Chapter-2/legacy/03_운영현황_슬라이드디자인.md
+✅ Moved: 07_재무현황및전망_v1.md → Chapter-3/legacy/07_재무현황및전망_v1.md
+✅ Moved: S01_제안_개요_및_전략.md → General/S01_제안_개요_및_전략.md
+✅ Moved: 06_2026년실행전략.md → Chapter-5/06_2026년실행전략.md
+✅ Moved: 04_시장분석및경쟁현황_슬라이드디자인.md → Chapter-4/legacy/04_시장분석및경쟁현황_슬라이드디자인.md
+✅ Moved: ANTO_브랜드_전략_방향.md → Chapter-1/ANTO_브랜드_전략_방향.md
+✅ Moved: PROMPT_TEMPLATES.md → General/legacy/PROMPT_TEMPLATES.md
+✅ Moved: 딥 리서치 자료 (4) - WE 호텔 제주 운영 및 웰니스 포지셔닝 상세 조사.md → Chapter-4/deep-research/딥 리서치 자료 (4) - WE 호텔 제주 운영 및 웰니스 포지셔닝 상세 조사.md
+✅ Moved: 04_운영_전략_기획서.md → Chapter-5/04_운영_전략_기획서.md
+✅ Moved: 08_향후액션과제_Part2_슬라이드디자인.md → Chapter-6/legacy/08_향후액션과제_Part2_슬라이드디자인.md
+✅ Moved: paradisecity_jeju_shinhwa_benchmark.md → Chapter-4/paradisecity_jeju_shinhwa_benchmark.md
+✅ Moved: 02_운영현황_슬라이드디자인.md → Chapter-2/legacy/02_운영현황_슬라이드디자인.md
+✅ Moved: 05_시설및서비스_대외용_슬라이드디자인.md → Chapter-2/legacy/05_시설및서비스_대외용_슬라이드디자인.md
+✅ Moved: S00_Executive_Summary.md → Chapter-0/S00_Executive_Summary.md
+✅ Moved: 02_운영현황_v1.md → Chapter-2/legacy/02_운영현황_v1.md
+✅ Moved: 안토_조직별_AI_활용_기획안.md → Chapter-7/안토_조직별_AI_활용_기획안.md
+✅ Moved: ANTO 딥리서치 (9)_04_서울 북한산 자연휴양형 프리미엄 호텔 브랜드 시장 진출 전략.pdf → Deep-Research-Archive/ANTO 딥리서치 (9)_04_서울 북한산 자연휴양형 프리미엄 호텔 브랜드 시장 진출 전략.pdf
+✅ Moved: 04_마케팅및영업전략_v1.md → Chapter-5/legacy/04_마케팅및영업전략_v1.md
+✅ Moved: Appendix_부록_초안.md → Appendix/Appendix_부록_초안.md
+✅ Moved: 04_시장분석및포지셔닝_v2.md → Chapter-4/legacy/04_시장분석및포지셔닝_v2.md
+✅ Moved: 리서치-03.md → General/legacy/리서치-03.md
+✅ Moved: 06_주요플랜및이슈_최종본.md → Chapter-6/legacy/06_주요플랜및이슈_최종본.md
+✅ Moved: 04_사업전략_대외용_최종본.md → Chapter-5/legacy/04_사업전략_대외용_최종본.md
+✅ Moved: 01_ExecutiveSummary_최종본.md → Chapter-0/legacy/01_ExecutiveSummary_최종본.md
+✅ Moved: S06_주요_플랜_및_이슈.md → Chapter-6/S06_주요_플랜_및_이슈.md
+✅ Moved: 06_재무계획_대외용_최종본.md → Chapter-3/legacy/06_재무계획_대외용_최종본.md
+✅ Moved: 04_사업전략_대외용_슬라이드디자인.md → Chapter-5/legacy/04_사업전략_대외용_슬라이드디자인.md
+✅ Moved: 00_ExecutiveSummary_v1.md → Chapter-0/legacy/00_ExecutiveSummary_v1.md
+✅ Moved: scraping_summary_report.md → General/legacy/scraping_summary_report.md
+✅ Moved: ANTO Brand Guideline.md → Chapter-1/ANTO Brand Guideline.md
+✅ Moved: 05_마케팅및영업전략_최종본.md → Chapter-5/legacy/05_마케팅및영업전략_최종본.md
+✅ Moved: ANTO 네이버 지도 평가 분석.pdf → Chapter-4/ANTO 네이버 지도 평가 분석.pdf
+✅ Moved: 리서치-02.md → General/legacy/리서치-02.md
+✅ Moved: 03_운영현황_최종본.md → Chapter-2/legacy/03_운영현황_최종본.md
+✅ Moved: 대내용 자료 키 메시지에 따른 목차 구성.md → General/대내용 자료 키 메시지에 따른 목차 구성.md
+✅ Moved: 08_결론_대외용_최종본.md → Chapter-8/legacy/08_결론_대외용_최종본.md
+✅ Moved: 03_시장분석_대외용_슬라이드디자인.md → Chapter-4/legacy/03_시장분석_대외용_슬라이드디자인.md
+✅ Moved: 07_향후계획_대외용_최종본.md → Chapter-6/legacy/07_향후계획_대외용_최종본.md
+✅ Moved: 01_제안개요및전략_v1.md → General/legacy/01_제안개요및전략_v1.md
+✅ Moved: S07_향후_액션_과제_및_추진_계획.md → Chapter-6/S07_향후_액션_과제_및_추진_계획.md
+✅ Moved: 07_향후계획_대외용_슬라이드디자인.md → Chapter-6/legacy/07_향후계획_대외용_슬라이드디자인.md
+✅ Moved: inspire_anto_hotel_benchmark.md → Chapter-4/inspire_anto_hotel_benchmark.md
+✅ Moved: ANTO_슬라이드_디자인가이드.md → General/ANTO_슬라이드_디자인가이드.md
+✅ Moved: 00_ExecutiveSummary_슬라이드디자인.md → Chapter-0/legacy/00_ExecutiveSummary_슬라이드디자인.md
+✅ Moved: 05_주요플랜및이슈_v1.md → Chapter-6/legacy/05_주요플랜및이슈_v1.md
+✅ Moved: 08_향후액션과제_Part1_슬라이드디자인.md → Chapter-6/legacy/08_향후액션과제_Part1_슬라이드디자인.md
+✅ Moved: ANTO_호텔_팀별_AI_활용_기획안.md → Chapter-7/ANTO_호텔_팀별_AI_활용_기획안.md
+✅ Moved: ANTO_비전_및_핵심가치.md → Chapter-8/ANTO_비전_및_핵심가치.md
+✅ Moved: 06_향후액션과제_v1.md → Chapter-6/legacy/06_향후액션과제_v1.md
+✅ Moved: 07_재무현황및전망_최종본.md → Chapter-3/legacy/07_재무현황및전망_최종본.md
+✅ Moved: ANTO 딥리서치 (6)_2024-2025 서울·도쿄·싱가포르 프리미엄 호텔 시장 심층 분석.pdf → Deep-Research-Archive/ANTO 딥리서치 (6)_2024-2025 서울·도쿄·싱가포르 프리미엄 호텔 시장 심층 분석.pdf
+✅ Moved: 딥 리서치 자료 (2) - 아난티 호텔 운영 및 브랜드 포지셔닝 상세 조사.md → Chapter-4/deep-research/딥 리서치 자료 (2) - 아난티 호텔 운영 및 브랜드 포지셔닝 상세 조사.md
+✅ Moved: 04_마케팅및영업전략_슬라이드디자인.md → Chapter-5/legacy/04_마케팅및영업전략_슬라이드디자인.md
+✅ Moved: 01_경쟁사_분석_보고서.md → Chapter-4/01_경쟁사_분석_보고서.md
+✅ Moved: 04_시장분석및경쟁현황_최종본.md → Chapter-4/legacy/04_시장분석및경쟁현황_최종본.md
+✅ Moved: Appendix_지표_정의_및_해석.md → Appendix/Appendix_지표_정의_및_해석.md
+✅ Moved: 리서치-01.md → General/legacy/리서치-01.md
+✅ Moved: 137-News.md → News/articles/137-News.md
+✅ Moved: 113-News.md → News/articles/113-News.md
+✅ Moved: 105-News.md → News/articles/105-News.md
+✅ Moved: 87-News.md → News/articles/87-News.md
+✅ Moved: 99-News.md → News/articles/99-News.md
+✅ Moved: 97-News.md → News/articles/97-News.md
+✅ Moved: 18-News.md → News/articles/18-News.md
+✅ Moved: 120-News.md → News/articles/120-News.md
+✅ Moved: 27-News.md → News/articles/27-News.md
+✅ Moved: 11-News.md → News/articles/11-News.md
+✅ Moved: 26-News.md → News/articles/26-News.md
+✅ Moved: 110-News.md → News/articles/110-News.md
+✅ Moved: 28-News.md → News/articles/28-News.md
+✅ Moved: 15-News.md → News/articles/15-News.md
+✅ Moved: 25-News.md → News/articles/25-News.md
+✅ Moved: 109-News.md → News/articles/109-News.md
+✅ Moved: 19-News.md → News/articles/19-News.md
+✅ Moved: 50-News.md → News/articles/50-News.md
+✅ Moved: 02-News.md → News/articles/02-News.md
+✅ Moved: 95-News.md → News/articles/95-News.md
+✅ Moved: 23-News.md → News/articles/23-News.md
+✅ Moved: 49-News.md → News/articles/49-News.md
+✅ Moved: 17-News.md → News/articles/17-News.md
+✅ Moved: 21-News.md → News/articles/21-News.md
+✅ Moved: 93-News.md → News/articles/93-News.md
+✅ Moved: 36-News.md → News/articles/36-News.md
+✅ Moved: 66-News.md → News/articles/66-News.md
+✅ Moved: 31-News.md → News/articles/31-News.md
+✅ Moved: 70-News.md → News/articles/70-News.md
+✅ Moved: 144-News.md → News/articles/144-News.md
+✅ Moved: 34-News.md → News/articles/34-News.md
+✅ Moved: 40-News.md → News/articles/40-News.md
+✅ Moved: 37-News.md → News/articles/37-News.md
+✅ Moved: 08-News.md → News/articles/08-News.md
+✅ Moved: 30-News.md → News/articles/30-News.md
+✅ Moved: 147-News.md → News/articles/147-News.md
+✅ Moved: 72-News.md → News/articles/72-News.md
+✅ Moved: 39-News.md → News/articles/39-News.md
+✅ Moved: 06-News.md → News/articles/06-News.md
+✅ Moved: 122-News.md → News/articles/122-News.md
+✅ Moved: 12-News.md → News/articles/12-News.md
+✅ Moved: 10-News.md → News/articles/10-News.md
+✅ Moved: 07-News.md → News/articles/07-News.md
+✅ Moved: 55-News.md → News/articles/55-News.md
+✅ Moved: 52-News.md → News/articles/52-News.md
+✅ Moved: 61-News.md → News/articles/61-News.md
+✅ Moved: 53-News.md → News/articles/53-News.md
+✅ Moved: 75-News.md → News/articles/75-News.md
+✅ Moved: 138-News.md → News/articles/138-News.md
+
+✅ Link mapping saved to: link_mapping.json
+
+=== Summary ===
+Success: 165
+Fail: 0
+Total: 165

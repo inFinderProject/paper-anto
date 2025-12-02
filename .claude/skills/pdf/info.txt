@@ -1,0 +1,27 @@
+메인 파일:
+
+SKILL.md - pdf 스킬 메인 가이드 (7K)
+LICENSE.txt
+FORMS.md - PDF 양식 가이드 (9.5K)
+REFERENCE.md - 참조 문서 (17K)
+
+스크립트 (scripts/):
+
+check_bounding_boxes.py - 바운딩 박스 확인 (3.5K)
+check_bounding_boxes_test.py - 테스트 스크립트 (9K)
+check_fillable_fields.py - 입력 필드 확인
+convert_pdf_to_images.py - PDF를 이미지로 변환
+create_validation_image.py - 검증 이미지 생성
+extract_form_field_info.py - 양식 필드 정보 추출 (6K)
+fill_fillable_fields.py - 양식 필드 채우기 (5K)
+fill_pdf_form_with_annotations.py - 주석으로 양식 채우기 (4K)
+
+pdf 스킬은 PDF 조작을 위한 종합 툴킷입니다. 주요 기능:
+
+✅ 텍스트 및 테이블 추출
+✅ 새 PDF 생성
+✅ 문서 병합/분할
+✅ PDF 양식 처리
+✅ 프로그래밍 방식의 PDF 분석
+
+경영 보고서의 최종 배포용 PDF 생성, 여러 보고서 병합, PDF 양식 작성 등에 활용하시면 좋습니다!
