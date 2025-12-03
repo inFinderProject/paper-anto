@@ -31,23 +31,24 @@ tags:
   - [x] Chapter 1. 복제 불가능한 자연 자산
   - [x] Chapter 2. (본문 텍스트 기준 내용 작성 완료)
   - [x] Chapter 3. 재무 분석 및 2026년 흑자 전환 방향
-  - [ ] Intro / Executive Summary
-  - [ ] Chapter 4. 시장 분석 및 포지셔닝
-  - [ ] Chapter 5. 2026년 실행 전략
-  - [ ] Chapter 6. 실행 과제 및 리스크 관리
-  - [ ] Chapter 7. 부서별 실행 과제
-  - [ ] Chapter 8. 결론 및 비전
-  - [ ] Appendix
+  - [x] Chapter 4. 시장 분석 및 포지셔닝 (4.1~4.4 완료)
+  - [x] Chapter 5. 2026년 실행 전략 (5.1~5.4 완료)
+  - [x] Chapter 6. 실행 과제 및 리스크 관리 (6.1~6.3 완료)
+  - [x] Chapter 7. 부서별 실행 과제 (7.1~7.4 전체 완료)
+  - [x] Chapter 8. 결론 및 비전 (8.1~8.5 전체 완료)
+  - [x] Executive Summary (1페이지 압축 요약 완료)
+  - [x] Appendix (데이터 출처, 지표 정의, 리서치 인덱스 완료)
 
 ## 4. 우선 작업 과제
-- [ ] 1순위: Executive Summary 작성
-  - Chapter 1~3 내용을 기반으로 임원용 1~2페이지 요약 정리.
-- [ ] 2순위: Chapter 4~5 전략·시장 파트 완성
-  - 시장 트렌드, 타겟 고객, 경쟁사 분석, 포지셔닝 및 회원권/마케팅/운영 전략 구조화.
-- [ ] 3순위: Chapter 6~7 실행·운영 파트 정리
-  - 실행 과제, 리스크, 부서별 미션/KPI/타임라인/협업 구조 정의.
-- [ ] 4순위: Chapter 8 결론 및 Appendix 정리
-  - 전체 스토리 마무리 메시지, 비전·성공 방정식, 부록 자료 통합.
+- [x] ~~1순위: Chapter 4~5 전략·시장 파트 완성~~ (완료)
+- [x] ~~2순위: Chapter 6 실행·과제 파트 완성~~ (완료)
+- [x] ~~3순위: Chapter 7 부서별 실행 과제 완성~~ (7.1~7.4 전체 완료)
+- [x] ~~4순위: Chapter 8 결론 및 비전 완성~~ (8.1~8.5 전체 완료)
+  - 성공 방정식, ANTO VISION, 지속 가능한 성장, 부서별 Call to Action
+- [x] ~~5순위: Executive Summary 작성~~ (완료)
+  - 1페이지 압축 요약: `project/08-content-work/executive-summary.md`
+- [x] ~~6순위: Appendix 정리~~ (완료)
+  - 데이터 출처, 지표 정의, 리서치 인덱스: `project/08-content-work/appendix.md`
 
 ## 5. 운영·거버넌스 체크포인트
 - KPI 프레임
